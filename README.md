@@ -7,7 +7,7 @@ SMPS Player using Sonic 2 Options Menu
 
 This sound test can be used to play SMPS with Mega PCM 2 using a Genesis Emulator.
 
-# How to install it
+# How to install Sonic 1 Sound Test with Mega PCM 2
 1. Just download the source code
 2. Extract the sound test
 3. Go to the sound folder
