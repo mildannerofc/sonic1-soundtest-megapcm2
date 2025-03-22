@@ -1,0 +1,19 @@
+
+SN 68k version 2.53
+
+C:\USERS\JAVES\DOCUMENTS\SONIC1-SOUNDTEST-MEGAPCM2\_INC\PALETTE POINTERS.ASM(25) : Warning : Size of pal_levels ($6) does not match ZoneCount ($7).
+C:\USERS\JAVES\DOCUMENTS\SONIC1-SOUNDTEST-MEGAPCM2\SONIC.ASM(3034) : Warning : Size of colpointers ($6) does not match ZoneCount ($7).
+C:\USERS\JAVES\DOCUMENTS\SONIC1-SOUNDTEST-MEGAPCM2\_INCOBJ\3A GOT THROUGH CARD.ASM(175) : Warning : Size of levelorder ($6) does not match ZoneCount ($7).
+C:\USERS\JAVES\DOCUMENTS\SONIC1-SOUNDTEST-MEGAPCM2\SONIC.ASM(6832) : Warning : Size of musiclist2 ($6) does not match ZoneCount ($7).
+C:\USERS\JAVES\DOCUMENTS\SONIC1-SOUNDTEST-MEGAPCM2\_INC\PATTERN LOAD CUES.ASM(23) : Warning : Size of plc_levels ($6) does not match ZoneCount ($7).
+C:\USERS\JAVES\DOCUMENTS\SONIC1-SOUNDTEST-MEGAPCM2\_INC\PATTERN LOAD CUES.ASM(36) : Warning : Size of plc_animals ($6) does not match ZoneCount ($7).
+C:\USERS\JAVES\DOCUMENTS\SONIC1-SOUNDTEST-MEGAPCM2\SONIC.ASM(9106) : Warning : Forward reference to redefinable symbol
+C:\USERS\JAVES\DOCUMENTS\SONIC1-SOUNDTEST-MEGAPCM2\SONIC.ASM(2294) : Warning : Forward reference to redefinable symbol
+C:\USERS\JAVES\DOCUMENTS\SONIC1-SOUNDTEST-MEGAPCM2\SONIC.ASM(2380) : Warning : Forward reference to redefinable symbol
+C:\USERS\JAVES\DOCUMENTS\SONIC1-SOUNDTEST-MEGAPCM2\_INCOBJ\59 SLZ ELEVATORS.ASM(10) : Warning : Forward reference to redefinable symbol
+C:\USERS\JAVES\DOCUMENTS\SONIC1-SOUNDTEST-MEGAPCM2\_INCOBJ\5A SLZ CIRCLING PLATFORM.ASM(10) : Warning : Forward reference to redefinable symbol
+C:\USERS\JAVES\DOCUMENTS\SONIC1-SOUNDTEST-MEGAPCM2\_INCOBJ\5B STAIRCASE.ASM(10) : Warning : Forward reference to redefinable symbol
+C:\USERS\JAVES\DOCUMENTS\SONIC1-SOUNDTEST-MEGAPCM2\_INCOBJ\5E SEESAW.ASM(10) : Warning : Forward reference to redefinable symbol
+
+Assembly completed.
+0 error(s) from 53411 lines in 0.6 seconds
